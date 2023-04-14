@@ -1,0 +1,14 @@
+Projeto 1
+- Criar um software para determinar se um candidato pode passar para a próxima etapa de um processo seletivo.
+- O usuário deve informar a pontuação obtida em 3 provas diferentes: português (pt. mínima: 6), matemática (pt. mínima 5) e conhecimentos específicos (pt. mínima 7).
+- Se o candidato obtiver uma pontuação abaixo da mínima em qualquer uma das provas, ele estará automaticamente eliminado, caso contrário ele poderá prosseguir para a próxima etapa.
+
+Projeto 2
+- Criar um software para retornar o cálculo do IMC.
+- Criar uma classe chamada Retorno contendo:
+		* atributos: resultadoImc, statusImc, pesoIdeal
+- Criar uma classe IMC contendo:
+	* atributos: peso, altura, gênero
+	* método: Calcular que deve receber por parâmetro um objeto da classe IMC e retornar um objeto da classe Retorno
+- Exibir o resultado ao usuário
+- Obter na internet as informações referentes à tabela de IMC para embasar o desenvolvimento do software
